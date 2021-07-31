@@ -1,3 +1,40 @@
+# Web Bootstrap
+Una web creada con laravel, utilizando bootstrap para poner estilo, esta enfocada en el proyecto de tiro parabolico y su realizacion.
+
+#### Imagenes de la pagina:
+
+Aqui es la pagina principal
+
+<p align="center">
+    <img src="https://github.com/Thelocoko/imagenes/blob/main/WebBootstrap/00.png" width="1920" title="hover text">
+</p>
+
+<p align="center">
+    <img src="https://github.com/Thelocoko/imagenes/blob/main/WebBootstrap/01.png" width="1920" title="hover text">
+</p>
+
+Aqui podemos ver la parte de los requisitos necesarios para desarrollar el proyecto
+<p align="center">
+    <img src="https://github.com/Thelocoko/imagenes/blob/main/WebBootstrap/02.png" width="1920" title="hover text">
+</p>
+
+Aqui esta la ultima parte en donde se puede ver como surgio el desarrollo del proyecto
+
+<p align="center">
+    <img src="https://github.com/Thelocoko/imagenes/blob/main/WebBootstrap/03.png" width="1920" title="hover text">
+</p>
+
+La ultima parte de la pagina web es un archivo de word donde esta documentado la parte de la pagina web
+>
+>
+>
+>
+>
+>
+>
+>
+Esta parte viene incluida al momento de subir este proyecto, de parte de Laravel:
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
