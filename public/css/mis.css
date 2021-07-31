@@ -1,0 +1,21 @@
+.logo {
+	width: 60%;
+	display: block;
+	margin: auto;
+}
+.contenedor{
+	width: 80%;
+	display: block;
+	margin: auto;
+}
+.imgiot{
+	width: 50%;
+	margin: 20px auto;
+}
+.ff{
+	width: 125px;
+	height: 2px;
+}
+.social{
+	font-size: 30px;
+}
